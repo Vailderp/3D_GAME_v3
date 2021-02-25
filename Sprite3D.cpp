@@ -1,4 +1,5 @@
-﻿#include "Sprite3D.h"
+#include "Sprite3D.h"
+//Autor's github: https://github.com/Hapaxia/Sprite3d
 //////////////////////////////////////////////////////////////////////////////
 //
 // Sprite3d
